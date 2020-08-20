@@ -1,0 +1,13 @@
+C:\Users\Administration\source\repos\Lettertonumber\Lettertonumber\bin\Debug\netcoreapp3.1\Lettertonumber.exe
+C:\Users\Administration\source\repos\Lettertonumber\Lettertonumber\bin\Debug\netcoreapp3.1\Lettertonumber.deps.json
+C:\Users\Administration\source\repos\Lettertonumber\Lettertonumber\bin\Debug\netcoreapp3.1\Lettertonumber.runtimeconfig.json
+C:\Users\Administration\source\repos\Lettertonumber\Lettertonumber\bin\Debug\netcoreapp3.1\Lettertonumber.runtimeconfig.dev.json
+C:\Users\Administration\source\repos\Lettertonumber\Lettertonumber\bin\Debug\netcoreapp3.1\Lettertonumber.dll
+C:\Users\Administration\source\repos\Lettertonumber\Lettertonumber\bin\Debug\netcoreapp3.1\Lettertonumber.pdb
+C:\Users\Administration\source\repos\Lettertonumber\Lettertonumber\obj\Debug\netcoreapp3.1\Lettertonumber.csprojAssemblyReference.cache
+C:\Users\Administration\source\repos\Lettertonumber\Lettertonumber\obj\Debug\netcoreapp3.1\Lettertonumber.AssemblyInfoInputs.cache
+C:\Users\Administration\source\repos\Lettertonumber\Lettertonumber\obj\Debug\netcoreapp3.1\Lettertonumber.AssemblyInfo.cs
+C:\Users\Administration\source\repos\Lettertonumber\Lettertonumber\obj\Debug\netcoreapp3.1\Lettertonumber.csproj.CoreCompileInputs.cache
+C:\Users\Administration\source\repos\Lettertonumber\Lettertonumber\obj\Debug\netcoreapp3.1\Lettertonumber.dll
+C:\Users\Administration\source\repos\Lettertonumber\Lettertonumber\obj\Debug\netcoreapp3.1\Lettertonumber.pdb
+C:\Users\Administration\source\repos\Lettertonumber\Lettertonumber\obj\Debug\netcoreapp3.1\Lettertonumber.genruntimeconfig.cache
